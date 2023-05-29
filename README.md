@@ -6,7 +6,7 @@ I learnt python libraries such as numpy, pandas, Matplotlib.
 
 ## Week2
 
-I learnt linear regresion
+I learnt linear regresion and Image segmentation basics.
 
 ## Week 3
  
